@@ -1,2 +1,14 @@
 # cnzone-worldcup-journal
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
